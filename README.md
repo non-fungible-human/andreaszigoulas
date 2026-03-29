@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andreas Zigoulas</h1>
+<h1 align="center">Hi 👋, I'm Andreas Zig</h1>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCv06Rxx4daXhmYR45euOZcfgusqVMh2qmVw">
 </p>
